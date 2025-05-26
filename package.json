@@ -1,0 +1,19 @@
+{
+  "name": "beginner-node-js",
+  "version": "1.0.0",
+  "description": "A beginner-friendly Node.js project demonstrating console output, a basic HTTP server, and an Express.js server.",
+  "main": "helloworld.js",
+  "scripts": {
+    "start:helloworld": "node helloworld.js",
+    "start:httpserver": "node nodejsserver.js",
+    "start:express": "node expressserver.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nodejs", "express", "beginner", "http", "server", "console", "helloworld"],
+  "author": "Jill Platts",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
+
