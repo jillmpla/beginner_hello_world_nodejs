@@ -43,7 +43,6 @@ This project contains three simple examples that demonstrate different ways to u
 ## 🏃‍♀️ How to Run
 
 ```bash
-# Run each one in a separate terminal to avoid conflicts
 node helloworld.js     #logs to terminal
 
 node nodejsserver.js   #visit http://localhost:3001
@@ -62,7 +61,7 @@ node expressserver.js  #visit http://localhost:3002
 
 ---
 
-## 🚀 What To Do Next?
+## 🚀 What to Do Next
 
 - Build RESTful APIs with Express (`GET`, `POST`, `PUT`, `DELETE`)
 - Add routing and middleware (e.g. `express.json()`, logging)
