@@ -64,7 +64,7 @@ node expressserver.js  #visit http://localhost:3002
 ## 🚀 What to Do Next
 
 - Build RESTful APIs with Express (`GET`, `POST`, `PUT`, `DELETE`)
-- Add routing and middleware (e.g. `express.json()`, logging)
+- Add routing and middleware (`express.json()`, logging)
 - Connect to a database (like MongoDB or PostgreSQL)
 - Serve static files or templates (`HTML`, `CSS`, `JS`)
 - Create full-stack apps using React (frontend) + Express (backend)
